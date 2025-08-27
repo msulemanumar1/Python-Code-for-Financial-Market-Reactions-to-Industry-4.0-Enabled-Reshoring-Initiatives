@@ -1,0 +1,2 @@
+# Python-Code-for-Financial-Market-Reactions-to-Industry-4.0-Enabled-Reshoring-Initiatives
+This section presents an empirical event study analysis, examining the stock market reaction to corporate reshoring announcements. The aim is to determine whether such announcements generate statistically significant abnormal returns, thereby providing evidence of investor sentiment toward reshoring initiatives.
